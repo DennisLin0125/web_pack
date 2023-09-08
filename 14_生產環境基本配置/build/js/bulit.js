@@ -1,0 +1,1 @@
+!function(){"use strict";console.log(8);var o=new Promise((function(o){setTimeout((function(){console.log("計時OK"),o()}),1e3)}));console.log(o)}();

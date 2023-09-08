@@ -1,0 +1,1 @@
+!function(){console.log(8);const o=new Promise((o=>{setTimeout((()=>{console.log("計時OK"),o()}),1e3)}));console.log(o)}();
