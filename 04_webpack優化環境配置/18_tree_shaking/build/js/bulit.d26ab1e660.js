@@ -1,0 +1,2 @@
+!function(){"use strict";console.log(function(){for(var n=arguments.length,o=new Array(n),r=0;r<n;r++)o[r]=arguments[r];return o.reduce((function(n,o){return n+o}),0)}(1,2,3,4,5,6)),console.log(12)}();
+//# sourceMappingURL=bulit.d26ab1e660.js.map

@@ -1,0 +1,2 @@
+!function(){"use strict";console.log(function(){for(var n=arguments.length,e=new Array(n),o=0;o<n;o++)e[o]=arguments[o];return e.reduce((function(n,e){return n+e}),0)}(1,2,3,4,5,6)),console.log(12),"serviceWorker"in navigator&&window.addEventListener("load",(function(){navigator.serviceWorker.register("/service-worker.js").then((function(){console.log("註冊成功")})).catch((function(){console.log("註冊失敗")}))}))}();
+//# sourceMappingURL=bulit.81d1884a54.js.map

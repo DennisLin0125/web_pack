@@ -1,0 +1,1 @@
+{"version":3,"file":"css/built.f7719e5bc8.css","mappings":"AAAA;IACI,SAAS;IACT,UAAU;IACV,YAAY;IACZ,0BAA0B;AAC9B,C","sources":["webpack:///./src/css/index.css"],"sourcesContent":["html,body {\r\n    margin: 0;\r\n    padding: 0;\r\n    height: 100%;\r\n    background-color: darkgrey;\r\n}"],"names":[],"sourceRoot":""}
